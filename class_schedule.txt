@@ -11,7 +11,7 @@ Per 5: Digital Electronics, Rm B12
 Per 6: AP Comp Sci, Rm B12
 
 Team member 1
-Name:
+Name: 
 Per 1: 
 Per 2: 
 Per 3: 
@@ -19,17 +19,29 @@ Per 4:
 Per 5: 
 Per 6: 
 
-
-
 Team member 2
-
-
+Name:
+Per 1: 
+Per 2: 
+Per 3: 
+Per 4: 
+Per 5: 
+Per 6:
 
 Team member 3
-
-
+Name:
+Per 1: 
+Per 2: 
+Per 3: 
+Per 4: 
+Per 5: 
+Per 6:
 
 Team member 4
-
-
-
+Name:
+Per 1: 
+Per 2: 
+Per 3: 
+Per 4: 
+Per 5: 
+Per 6:
